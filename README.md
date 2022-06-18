@@ -4,6 +4,23 @@
 [`.vscode/extensions.json`](./.vscode/extensions.json)
 
 
+## Usage
+
+1. Install degit cli
+```shell
+# pnpm
+pnpm install degit -g
+# npm
+npm install degit -g
+# yarn
+yarn add degit -g
+```
+
+2. Pull config from remote
+```shell
+degit github:dohooo/vscode-settings/.vscode ./.vscode --force
+```
+
 ## Sponsors
 
 <p align="center">
