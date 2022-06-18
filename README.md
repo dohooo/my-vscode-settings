@@ -6,7 +6,7 @@
 
 ## Usage
 
-1. Install degit cli
+1. Install degit cli.
 ```shell
 # pnpm
 pnpm install degit -g
@@ -16,7 +16,7 @@ npm install degit -g
 yarn add degit -g
 ```
 
-2. Pull config from remote
+2. Pull config from remote.
 ```shell
 degit github:dohooo/vscode-settings/.vscode ./.vscode --force
 ```
